@@ -2,6 +2,30 @@
 https://1346042398.rsc.cdn77.org/1346042398/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/thumb/c/124/70/channels/channel_image1508329528.png" group-title="Tanzania",Azam Sports 2
 https://1314348974.rsc.cdn77.org/1314348974/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
+http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
+http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
+http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports4.qa.png" group-title="Sports",beIN Sports 4
+http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports5.qa.png" group-title="Sports",beIN Sports 5
+http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports6.qa.png" group-title="Sports",beIN Sports 6
+http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports7.qa.png" group-title="Sports",beIN Sports 7
+http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports8.qa.png" group-title="Sports",beIN Sports 8
+http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports9.qa.png" group-title="Sports",beIN Sports 9
+http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports10.qa.png" group-title="Sports",beIN Sports 10
+http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 11
+http://51.15.8.16:8081/arbiarb/beinsports11/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports12.qa.png" group-title="Sports",beIN Sports 12
+http://51.15.8.16:8081/arbiarb/beinsports12/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="Sports",beIN Sports 1 Asia
 http://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="Sports",beIN Sports 2 Asia
@@ -10,6 +34,26 @@ http://anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4
 https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="Sports",beIN Sports 2 Asia
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sports",Premier Football 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
+https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
+https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/ie/SetantaEurasiaEn.ie.png" group-title="Sports",Setanta Sports
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sports",Setanta Sports +
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sports Action
+https://www.doofree88.com/streaming/uk-skysports-action_action_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="Sports",Sky Sports Arena
+https://www.doofree88.com/streaming/uk-skysports-action_action_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Sports",Sky Sports F1
+https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="Sports",Sky Sports Main Event
+https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="Sports",Sky Sports Mix
+https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="beIN Sports 1 ARB" tvg-name="beIN SPORTS 1HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1HD
 http://topiptv.net:5890/aziz/1234/16
 #EXTINF:-1 tvg-chno="5" tvg-id="beIN Sports 2 ARB" tvg-name="beIN SPORTS 2HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 2HD
